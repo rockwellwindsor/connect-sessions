@@ -10,7 +10,7 @@
 
 ## About Me
 
-  My name is Rockwell and I am a Fullstack, DevOps developer. I live in Madison, WI. with my wife and our 2 dogs  When I am not writing code I am probably playing guitar or chasing around my best buddies Gus and Mitch.
+  My name is Rockwell and I am a Fullstack, DevOps developer. I live in Madison, Wisconsin with my wife and our 2 dogs  When I am not writing code I am probably playing guitar or chasing around my best buddies Gus and Mitch.
 
   <p><strong>Gus</strong> aka Gussy-so-fussy</p>
   <img src="./assets/img/gus.jpg" width="250" />
