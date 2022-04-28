@@ -10,10 +10,10 @@
 
 ## About Me
 
-  My name is Rockwell and I am a Fullstack, DevOps developer based out of Madison WI.  When I am not writing code I am probably playing guitar or chasing around my buddies:
+  My name is Rockwell and I am a Fullstack, DevOps developer based out of Madison WI.  When I am not writing code I am probably playing guitar or chasing around my buddies Gus and Mitch.
 
   <p><strong>Gus</strong></p>
   <img src="./assets/img/gus.jpg" width="250" />
   <p><strong>Mitch</strong></p>
-  <img src="./assets/img/mitch.jpg" width="2500" />
+  <img src="./assets/img/mitch.jpg" width="250" />
 
