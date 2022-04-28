@@ -12,8 +12,8 @@
       <th>Mitch</th>
     </thead>
     <tbody>
-      <tr><img src="./assets/img/gus.jpg" /></tr>
-      <tr><img src="./assets/img/mitch.jpg" /></tr>
+      <tr><img src="./assets/img/gus.jpg" style="max-width: 200px;" /></tr>
+      <tr><img src="./assets/img/mitch.jpg" style="max-width: 200px;" /></tr>
     </tbody>
   </table>
 
