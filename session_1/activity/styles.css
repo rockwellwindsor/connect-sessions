@@ -1,0 +1,3 @@
+body {background-color:#1f3d0c;display:flex;}
+
+body > div {margin-left:150px;background:#fff;height: 250px;width: 175px;border: 1px solid #000;position: relative;border-radius: 5px;boreder:1px solid #000;}
