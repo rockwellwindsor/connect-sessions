@@ -26,6 +26,7 @@
 #### Resources
 
   * https://www.w3schools.com/html/
+    * tags reference: https://www.w3schools.com/tags/
     * https://www.w3schools.com/html/html_symbols.asp
     * https://www.w3schools.com/html/html_emojis.asp
     * https://www.w3schools.com/charsets/ref_emoji.asp
