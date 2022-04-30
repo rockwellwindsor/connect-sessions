@@ -25,7 +25,7 @@
 
 #### Handout
 
-  <img src="" width="204" height="264"/>
+  <img src="./assets/fend_session_1_basic_html.png" width="204" height="264"/>
 
 #### Resources
 
