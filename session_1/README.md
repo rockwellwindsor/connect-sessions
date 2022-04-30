@@ -23,6 +23,10 @@
     * build a `<div></div>` (or multiple div's) in HTML to produce some cards
     * https://codepen.io/rockwellwindsor/pen/oNpKrqQ?editors=1100
 
+#### Handout
+
+  <img src="" width="204" height="264"/>
+
 #### Resources
 
   * https://www.w3schools.com/html/
