@@ -26,6 +26,7 @@
 #### Handout
 
   <img src="./assets/fend_session_1_basic_html.png" width="204" height="264"/>
+  <figcaption>Click to save the image and print it out</figcaption>
 
 #### Resources
 
