@@ -18,7 +18,8 @@
 
 #### Activity
 
-  * 
+  * More HTML nesting
+    * https://codepen.io/rockwellwindsor/pen/dydyevr
 
 #### Handout
 
@@ -33,4 +34,6 @@
     * https://www.w3schools.com/html/html_symbols.asp
     * https://www.w3schools.com/html/html_emojis.asp
     * https://www.w3schools.com/charsets/ref_emoji.asp
-  * Codepen:  https://codepen.io/
+  * HTML validator: https://validator.w3.org/
+    * File Upload: https://validator.w3.org/#validate_by_upload
+    * Direct Input: https://validator.w3.org/#validate_by_input
