@@ -1,6 +1,6 @@
 body {background-color:#1f3d0c;display:flex;flex-wrap: wrap;}
 
-body > div {margin-left:150px;margin-top:50px;background:#fff;height: 250px;width: 175px;border: 1px solid #000;position: relative;border-radius: 5px;border:1px solid #000;}
+section > div {margin-left:150px;margin-top:50px;background:#fff;height: 250px;width: 175px;border: 1px solid #000;position: relative;border-radius: 5px;border:1px solid #000;}
 
 .top-left {
   display: block;
