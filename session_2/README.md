@@ -30,10 +30,7 @@
 #### Resources
 
   * https://www.w3schools.com/html/
-    * tags reference: https://www.w3schools.com/tags/
-    * https://www.w3schools.com/html/html_symbols.asp
-    * https://www.w3schools.com/html/html_emojis.asp
-    * https://www.w3schools.com/charsets/ref_emoji.asp
+    * file paths: https://www.w3schools.com/html/html_filepaths.asp
   * HTML validator: https://validator.w3.org/
     * File Upload: https://validator.w3.org/#validate_by_upload
     * Direct Input: https://validator.w3.org/#validate_by_input
