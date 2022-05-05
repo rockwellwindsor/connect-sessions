@@ -30,7 +30,6 @@
 #### Resources
 
   * https://www.w3schools.com/html/html_blocks.asp
-    * reference for block and inline elements: https://www.w3resource.com/html/HTML-block-level-and-inline-elements.php
     * file paths: https://www.w3schools.com/html/html_filepaths.asp
   * HTML validator: https://validator.w3.org/
     * File Upload: https://validator.w3.org/#validate_by_upload
