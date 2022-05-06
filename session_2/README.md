@@ -31,6 +31,8 @@
 
   * https://www.w3schools.com/html/html_blocks.asp
     * file paths: https://www.w3schools.com/html/html_filepaths.asp
+    * file path blog post: https://www.kirupa.com/html5/all_about_file_paths.htm
+    * file path practice: https://sharynneazhar.github.io/fend-sessions/week2/file-paths.html
   * HTML validator: https://validator.w3.org/
     * File Upload: https://validator.w3.org/#validate_by_upload
     * Direct Input: https://validator.w3.org/#validate_by_input

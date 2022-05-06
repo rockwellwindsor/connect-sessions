@@ -8,6 +8,10 @@
   <img src="./assets/img/schedule2.png" />
   <img src="./assets/img/schedule3.png" />
 
+## Resources
+
+  * OneTen Scholarship Google Sheet: https://sites.google.com/udacity.com/onetenc2/home?authuser=0
+
 ## About Me
 
   My name is Rockwell and I am a Fullstack, DevOps developer. I live in Madison, Wisconsin with my wife and our 2 dogs  When I am not writing code I am probably playing guitar or chasing around my best buddies Gus and Mitch.
