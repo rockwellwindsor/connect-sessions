@@ -17,8 +17,8 @@
 
 #### Activity
 
-  * 
-    * 
+  * Making the card your own
+    * <img src="./assets/intro_to_css_6.png" width="204" height="264"/>
 
 #### Handouts
 
