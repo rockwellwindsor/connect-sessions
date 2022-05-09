@@ -29,7 +29,8 @@
 
 #### Resources
 
-  * https://www.w3schools.com/html/html_blocks.asp
+  * HTML: https://www.w3schools.com/html/html_blocks.asp
+  * Semantic HTML Elements: https://www.w3schools.com/html/html5_semantic_elements.asp
   * HTML validator: https://validator.w3.org/
     * File Upload: https://validator.w3.org/#validate_by_upload
     * Direct Input: https://validator.w3.org/#validate_by_input
