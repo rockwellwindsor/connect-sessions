@@ -22,8 +22,6 @@
 
 #### Handout
 
-    |
---- | ---  
 <img src="./assets/intro_to_css_1.png" width="204" height="264"/> | <img src="./assets/intro_to_css_2.png" width="204" height="264"/> 
 <img src="./assets/intro_to_css_3.png" width="204" height="264"/> | <img src="./assets/intro_to_css_4.png" width="204" height="264"/>
 <img src="./assets/intro_to_css_5.png" width="204" height="264"/> | <img src="./assets/intro_to_css_6.png" width="204" height="264"/>
