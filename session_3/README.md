@@ -31,8 +31,13 @@
 
 #### Resources
 
-  * CSS: https://www.w3schools.com/css/
+  * CSS: https://www.w3schools.com/css/css_intro.asp
+    * Syntax: https://www.w3schools.com/css/css_syntax.asp
+    * Selectors: https://www.w3schools.com/css/css_selectors.asp
+    * How to use CSS: https://www.w3schools.com/css/css_howto.asp
     * the Link tag: https://www.w3schools.com/tags/tag_link.asp
+    * Using an ID: https://www.w3schools.com/html/html_id.asp
+    * Using a CLASS: https://www.w3schools.com/html/html_classes.asp
   * File Paths: https://www.w3schools.com/html/html_filepaths.asp
     * file path blog post: https://www.kirupa.com/html5/all_about_file_paths.htm
     * file path practice: https://sharynneazhar.github.io/fend-sessions/week2/file-paths.html
