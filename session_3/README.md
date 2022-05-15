@@ -22,10 +22,10 @@
 
 #### Handouts
 
-<img src="./assets/intro_to_css_1.png" width="204" height="264"/>  <img src="./assets/intro_to_css_2.png" width="204" height="264"/> 
-<img src="./assets/intro_to_css_3.png" width="204" height="264"/>  <img src="./assets/intro_to_css_4.png" width="204" height="264"/>
-<img src="./assets/intro_to_css_5.png" width="204" height="264"/>  <img src="./assets/intro_to_css_6.png" width="204" height="264"/>
-<img src="./assets/intro_to_css_7.png" width="204" height="264"/>
+<img src="./handouts/intro_to_css_1.png" width="204" height="264"/>  <img src="./handouts/intro_to_css_2.png" width="204" height="264"/> 
+<img src="./handouts/intro_to_css_3.png" width="204" height="264"/>  <img src="./handouts/intro_to_css_4.png" width="204" height="264"/>
+<img src="./handouts/intro_to_css_5.png" width="204" height="264"/>  <img src="./handouts/intro_to_css_6.png" width="204" height="264"/>
+<img src="./handouts/intro_to_css_7.png" width="204" height="264"/>
 
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 

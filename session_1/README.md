@@ -25,7 +25,7 @@
 
 #### Handout
 
-  <img src="./assets/fend_session_1_basic_html.png" width="204" height="264"/>
+  <img src="./handouts/fend_session_1_basic_html.png" width="204" height="264"/>
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 
 #### Resources

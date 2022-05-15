@@ -23,8 +23,8 @@
 
 #### Handout
 
-  <img src="./assets/fend_session_2_handout_1.png" width="204" height="264"/>
-  <img src="./assets/fend_session_2_handout_2.png" width="204" height="264"/>
+  <img src="./handouts/fend_session_2_handout_1.png" width="204" height="264"/>
+  <img src="./handouts/fend_session_2_handout_2.png" width="204" height="264"/>
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 
 #### Resources
