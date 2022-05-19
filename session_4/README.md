@@ -34,3 +34,4 @@
   * W3 CSS tutorial with Examples: https://www.w3schools.com/css/default.asp
   * W3 CSS Quiz: https://www.w3schools.com/css/css_quiz.asp
   * CSS Tricks: https://css-tricks.com/
+  * Using the Inspector: https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css
