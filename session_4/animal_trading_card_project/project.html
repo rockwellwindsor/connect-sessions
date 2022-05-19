@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Udacity | Front-End Web Developer NanoDegree | Project 1</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <section>
+      <h1>Animal Trading Card Work Through Points</h1>
+      <ul>
+        <li class="main-li"><b>Customize the Card Content</b>
+          <ul>
+            <li><b>Add an Animal image to the card replacing the default placeholder image</b>
+              <ul>
+                <li>This involves both uploading the new image file and linking to it in th HTML</li>
+                <li>Do not forget to add an <strong>alt</strong> tag to the image to provide some context for it in the case it does not show up, or if a screen reader is being used</li>
+              </ul>
+            </li>
+            <li><b>Customize the Text on the Card to match your animal's information</b></li>
+          </ul>
+        </li>
+        <li class="main-li"><b>Link the Style Sheet and Add Class Attributes</b>
+          <ul>
+            <li><b>Link to the stylesheet in the &lt;head&gt; of the HTML file</b>
+              <ul>
+                <li><i>HINT</i>: Place the link to the stylesheet link right under the &lt;title&gt; element in the &lt;head&gt; element</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li class="main-li"><b>Add your CSS</b>
+          <ul>
+            <li>Make sure the image has a width set to 300px
+              <ul>
+                <li><i>HINT</i>: I would avoid setting a <strong>height</strong> value on the image too. Setting both height and width will likely warp the image.</li>
+                <li>Set a width on the card itself.  Remember that the image is 300px so that card needs to add that, plus any padding added to the sides, into account in its width number.
+                  <ul>
+                    <li>Example: If the image is <mark>300px</mark> and the padding on each side is <mark>25px</mark>, then <mark>25px + 300px + 25px = 350px</mark> total width.  Remember it is 50 total added on because there is <mark>25px</mark> on the <u>left AND right side</u>.</li>
+                  </ul>
+                </li>
+                <li>Make the text for the animal's description italic.  To target this in CSS you can use the <u>font-style</u> property</li>
+                <li>Remove the bullet points from the list
+                  <ul>
+                    <li>This requires targeting the <strong>list-style</strong> property of the &lt;ul&gt; element.  So add a class to the ul and then target that property to remove the bullet points.</li>
+                  </ul>
+                </li>
+                <li>Make the Parts of the list before the <strong>:</strong> bold.
+                  <ul>
+                    <li>You can add a class to the &lt;span&gt; tag and then target the <strong>font-weight</strong> property</li>
+                  </ul>
+                </li>
+                <li>Add a border around the animal name, image and information sections
+                  <ul>
+                    <li>first identify the container elements for each of these.  Then add the border to those elements. 
+                      <ul>
+                        <li><i>HINT</i>: If you do not want to see a border just make the border color match the background</li>
+                        <li><i>HINT</i>: Remember, a border is not just about color, you can also round out the edges using the <strong>border-radius</strong> property.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li class="main-li"><b>Ready for submission</b>
+          <ul>
+            <li>Double check the rubric here: https://review.udacity.com/#!/rubrics/3380/view</li>
+            <li>Make sure you code is indented correctly</li>
+            <li>Valid the HTML by copy and paste here: https://validator.w3.org/#validate_by_input
+              <ul>
+                <li>If you get errors don't worry.  The output will be massive, but focus on the highlighted parts.  Ready it out loud if it helps and see if it clicks what needs to be changed.  <mark><em>Take your time reading over it</em></mark>.</li>
+              </ul>
+            </li>
+            <li>Remember you cannot use any inline styles or internal stylsheets.
+              <ul>
+                <li>Inline styles use <strong>style="..."</strong> to set properties right on HTML elements</li>
+                <li>An internal stylesheet is wrapped in the HTML &lt;style&gt; &lt;/style&gt; tags.</li>
+              </ul>
+            </li>
+            <li>Also do your best to make sure your class names are meaningful to what they are doing</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+  </body>
+</html>

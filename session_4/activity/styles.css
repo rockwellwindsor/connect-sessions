@@ -1,0 +1,81 @@
+body {
+  padding:0;
+  margin:0;
+  height:200vh;
+}
+#card-table {
+  background-color:#1f3d0c;
+  display:flex;
+  flex-wrap: wrap;
+  height:100%;
+  padding:25px 50px;
+}
+/* STEP 1
+On the open space below this comment create a rule targeting the "card" class
+ * Give it a height of 250px
+ * Give it a width of 175px
+ * Set background to white
+ * Give it a border with a width 1px, solid and black in color (or another color if youwant)
+ * BONUS: If you want rounded edges on teh card look at setting a border-radius: https://www.w3schools.com/cssref/css3_pr_border-radius.asp
+*/
+
+/* STEP 2
+On the open space below this comment create a rule targeting the "top-left" class
+  * Chain this declaration with the card class you wrote above
+    * Example: .parentClass1 .childClass
+  * Set margin-left to 5px
+  * Set margin-top to 5px
+*/
+
+/* STEP 3
+On the open space below this comment create a rule targeting the "center" class
+  * Chain this with the card class also
+    * Example. .parentClass1 .childClass
+  * Give it a width of 100%
+  * Give it a height of 65px
+  * Give it display of flex
+  * Set align-items to center
+  * Set justify-content to center
+*/
+
+/* STEP 4
+On the open space below this comment create a rule targeting the "bottom-right" class
+  * Chain this with the card class
+    * Example. .parentClass1 .childClass
+  * Set display to flex
+  * Set justify-content to right
+*/
+
+/* STEP 5
+On the open space below this comment create a rule targeting the "center-suit" class
+  * Chain this with the card and center classes
+    * Example: .grandParentClass .parentClass .class
+  * Set font-size to 75px
+*/
+
+/* STEP 6
+On the open space below this comment create a rule targeting the "bottom-right-container" class
+  * Chain this with the card and bottom-right classes
+    * Example: .grandParentClass .parentClass .class
+  * Give it a height of 100%
+  * Set margin to 0px 5px 5px 0px (see shorthand reference below)
+    * Reference: https://www.w3schools.com/css/css_margin.asp#midcontentadcontainer
+  * Give it a transform that rotates it 180 degrees
+    * Reference: https://www.w3schools.com/cssref/css3_pr_transform.asp
+*/
+
+/* STEP 7
+On the open space below this comment create a rule targeting the "suit" class
+  * Give it a color of whatever color you want
+  * Set font-size to 45px
+  * Give it margin of 0;
+  * Set line-height to 45px;
+*/
+
+/* STEP 8
+On the open space below this comment create a rule targeting the "number" class
+  * Give it a color of whatever color you want
+  * Set font-size to 45px
+  * Give it margin of 0;
+  * Set line-height to 45px;
+*/
