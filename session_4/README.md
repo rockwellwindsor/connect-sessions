@@ -1,4 +1,4 @@
-# Connect Session #3
+# Connect Session #4
 
   * Continuation of Understanding CSS
 
