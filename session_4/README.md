@@ -28,6 +28,7 @@
 #### Resources
 
   * Fonts: https://www.w3schools.com/css/css_font.asp
+    * Google Fonts: https://fonts.google.com/
   * Colors: https://www.w3schools.com/css/css_colors.asp
     * W3 Hex colors: https://www.w3schools.com/css/css_colors_hex.asp
     * Hex color reference: https://www.color-hex.com/
