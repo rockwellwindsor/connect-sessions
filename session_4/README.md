@@ -22,7 +22,7 @@
 
 #### Handouts
 
-  <img src="./handouts/animal_trading_card_work_sheet.png" width="204"/> <img src="./handouts/css_inspector_1.png" width="204"/> <img src="./handouts/css_inspector_2.png" width="204"/>
+  <img src="./handouts/html_nesting.png" width="204"/>. <img src="./handouts/animal_trading_card_work_sheet.png" width="204"/> <img src="./handouts/css_inspector_1.png" width="204"/> <img src="./handouts/css_inspector_2.png" width="204"/>
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 
 #### Resources
@@ -33,5 +33,4 @@
     * Hex color reference: https://www.color-hex.com/
   * W3 CSS tutorial with Examples: https://www.w3schools.com/css/default.asp
   * W3 CSS Quiz: https://www.w3schools.com/css/css_quiz.asp
-  * CSS Tricks: https://css-tricks.com/
-  * Using the Inspector: https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css
+  * HTML Refresher: https://html.com/
