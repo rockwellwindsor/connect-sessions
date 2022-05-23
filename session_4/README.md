@@ -11,9 +11,9 @@
     * Any projects due, how is that going?
   * Topic / Project / Learning Session
   * Break
-    * Activity
-  * Recap of lesson
+  * Q & A for animal Trading Card Project
   * Q & A
+  * Activity
 
 #### Activity
 
