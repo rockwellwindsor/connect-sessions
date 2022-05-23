@@ -22,7 +22,7 @@
 
 #### Handouts
 
-  <img src="./handouts/html_nesting.png" width="204"/>. <img src="./handouts/animal_trading_card_work_sheet.png" width="204"/> <img src="./handouts/css_inspector_1.png" width="204"/> <img src="./handouts/css_inspector_2.png" width="204"/>
+  <img src="./handouts/css_colors.png" width="204"/> <img src="./handouts/html_nesting.png" width="204"/> <img src="./handouts/animal_trading_card_work_sheet.png" width="204"/> <img src="./handouts/css_inspector_1.png" width="204"/> <img src="./handouts/css_inspector_2.png" width="204"/>
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 
 #### Resources
