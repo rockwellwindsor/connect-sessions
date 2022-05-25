@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Javascript & CSS Practice</title>
+    <link rel="stylesheet" href="./css/styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Javascript Practice</h1>
+    </header>
+    <section id="block-1" class="block-section" data-label="Steps for the first challenge" data-button-label="Button 1">
+      <h2></h2><!-- use the label value from the opening tag above to put the text into this h2 -->
+      <p>If you inspect this area, travel up the lineage a little bit and find the &lt;section&gt; container element for this.  You will get the text for the empty &lt;h2&gt; from the <mark>data-label</mark> <u>attribute</u>.  Use that to set the text for each empty &lt;h2&gt; on this page.</p>
+      <ol>
+        <li>Create a variable</li>
+        <li>Set the varaible = to all the sections on the page</li>
+        <li>You can get these sections in a few ways
+          <ul>
+            <li>querySelectorAll() * <i>Remember you pass in a string with the tag name to querySelectorAll() or the class name with a "&nbsp; . &nbsp;" before it</i></li>
+            <li>getElementsByClassName() * <i>Just pass in the class name as a string to the method</i></li>
+          </ul>
+        </li>
+        <li>Use the <code>console.log()</code> to output the data you are getting to verify it is correct.
+          <ul>
+            <li>First thing to check is the number of sections you are getting.  Use <code>.length</code> on the variable you created for step 1 to verify you are getting the correct number of sections before moving on.</li>
+          </ul>
+        </li>
+        <li>Loop through the sections
+          <ul>
+            <li>You can use a basic <code>for()</code> loop or a <code>forEach</code> loop, whatever kind of loop you are most comfortable with</li>
+            <li>Again, <code>console.log()</code> the element <i><strong>inside</strong></i> the loop to see what data it contains</li>
+          </ul>
+        </li>
+      </ol>
+    </section>
+    <section id="block-3" class="block-section"  data-label="Steps for the Second Challenge" data-button-label="Button 2">
+      <h2></h2><!-- use the label value from the opening tag above to put the text into this h2 -->
+      <p>For this section's challenge I want you to append a &lt;p&gt; tag to the empty &lt;div&gt; underneath this paragraph element (use the inspector to find the &lt;div&gt;  underneath this element and figure out how to target the &lt;div&gt;).  You can add dummy text or real text to it, does not matter.  Add as much as you like. Also give the &lt;p&gt; tag a class when you append it, the class name needs to be <mark>text</mark>.</p>
+      <div id="text-container"></div>
+    </section>
+    <section id="block-2" class="block-section"  data-label="Steps for the Third Challenge" data-button-label="Button 3">
+      <h2></h2><!-- use the label value from the opening tag above to put the text into this h2 -->
+      <ol>
+        <li>Write some Javascript so that when you click the red button below you append 1 button for each section on this page to the empty &lt;div&gt; tag under that button.
+          <ul>
+            <li>First thing to test is when you set up the event listener on the red button, <code>console.log()</code> something inside that event listener to verify it is outputting when you click the button. This will verify the event listener is working, then move on to the next step</li>
+          </ul>
+        </li>
+        <li>The text of the buttons should be set to the <mark>data-button-label</mark> <u>attribute</u> value from each section</li>
+        <li>Give each button it's own color background and color of text</li>
+        <li>You can achieve this in some different ways, and it is totally up to you:
+          <ul>
+            <li>you can add a unique identifer to each button as you create it and set up the CSS to target the ID</li>
+            <li>you can set the color in the JS by targeting the style of the button when you create the element</li>
+          </ul>
+        </li>
+      </ol>
+      <button id="show-me-btns-btn">Show me the Buttons!</button>
+      <div id="buttons-container"></div>
+    </section>
+    <script type="text/javascript" src="./js/site.js"></script>
+  </body>
+</html>

@@ -1,0 +1,231 @@
+/* Build out the last card and get the cards in a row */
+body {
+  padding: 0;
+  margin: 0;
+  height: 200vh;
+}
+#card-table {
+  background-color: #1f3d0c;
+  min-height: 100%;
+  padding: 25px 50px;
+}
+.card-container {
+  width: 100%;
+  min-height: 100%;
+  display: grid;
+  grid-gap: 5px 5px;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(
+    4,
+    200px
+  ); /* Yes, I do say not to set this.  Here I know what the card height will always be so I can saftly set the height on the rows */
+  grid-template-areas: /* Use this set up to sort out the cards and chips */
+    "one two three four five"
+    "six seven eight nine ten"
+    "eleven twelve thirteen fourteen fifteen"
+    "sixteen seventeen eightteen nineteen twenty";
+}
+/* You do not need to alter any CSS above this comment */
+
+/* Set the grid areas for the element below to position matching the image */
+#chip-1 {
+}
+#card-1 {
+}
+#chip-2 {
+}
+#card-2 {
+}
+#chip-3 {
+}
+#card-3 {
+}
+#chip-4 {
+}
+#card-4 {
+}
+#chip-5 {
+}
+#card-5 {
+}
+/* you do not need to alter any CSS below this comment */
+.card {
+  background: #fff;
+  height: 195px;
+  width: 125px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+.card .top-left {
+  display: block;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.card .symbol {
+  font-size: 35px;
+  line-height: 35px;
+  margin: 0;
+}
+.red {
+  color: #ff0000;
+}
+.black {
+  color: #000;
+}
+.card .number {
+  display: inline;
+  font-size: 35px;
+  line-height: 35px;
+}
+.center {
+  display: flex;
+  width: 100%;
+  height: 45px;
+  align-items: center;
+  justify-content: center;
+}
+.center-symbol {
+  font-size: 40px;
+}
+.bottom-right {
+  display: flex;
+  justify-content: right;
+}
+.bottom-right-container {
+  transform: rotate(180deg);
+  height: 100%;
+  margin: 0 5px 5px 0;
+}
+
+/* This is a just a helper */
+.hidden {
+  opacity: 0;
+}
+.pokerchip {
+  margin: 1em;
+  position: relative;
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  box-shadow: 0 0 5px 1px rgb(0 0 0 / 50%), 0 0 3px 0 rgb(0 0 0 / 40%) inset;
+  border-radius: 50%;
+  background-size: 151px 151px;
+  background-position: center center;
+}
+.pokerchip-red {
+  background-image: linear-gradient(
+      0deg,
+      transparent 0,
+      transparent 67.5px,
+      #fff 67.5px,
+      #fff 83.5px,
+      transparent 83.5px,
+      transparent 151px
+    ),
+    linear-gradient(
+      60deg,
+      transparent 0,
+      transparent 97.4304px,
+      #fff 97.4304px,
+      #fff 113.4304px,
+      transparent 113.4304px,
+      transparent 151px
+    ),
+    linear-gradient(
+      120deg,
+      #800000 0,
+      #800000 97.4304px,
+      #fff 97.4304px,
+      #fff 113.4304px,
+      #800000 113.4304px,
+      #800000 151px
+    );
+}
+.pokerchip:before {
+  position: absolute;
+  content: "";
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  top: 8px;
+  left: 7px;
+  background-size: 151px 151px;
+  background-position: center center;
+}
+.pokerchip:after {
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  font: bold 29px/62px Arial;
+  white-space: pre;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  top: 18px;
+  left: 18px;
+  text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.3),
+    1px 1px 0px rgba(255, 255, 255, 0.2);
+}
+.pokerchip-red:before {
+  border: 8px solid #800000;
+  background-image: linear-gradient(
+      0deg,
+      transparent 0,
+      transparent 69.5px,
+      #ebebeb 69.5px,
+      #ebebeb 81.5px,
+      transparent 81.5px,
+      transparent 151px
+    ),
+    linear-gradient(
+      30deg,
+      transparent 0,
+      transparent 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      transparent 110.7104px,
+      transparent 151px
+    ),
+    linear-gradient(
+      60deg,
+      transparent 0,
+      transparent 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      transparent 110.7104px,
+      transparent 151px
+    ),
+    linear-gradient(
+      90deg,
+      transparent 0,
+      transparent 69.5px,
+      #ebebeb 69.5px,
+      #ebebeb 81.5px,
+      transparent 81.5px,
+      transparent 151px
+    ),
+    linear-gradient(
+      120deg,
+      transparent 0,
+      transparent 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      transparent 110.7104px,
+      transparent 151px
+    ),
+    linear-gradient(
+      150deg,
+      #6c0000 0,
+      #6c0000 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      #6c0000 110.7104px,
+      #6c0000 151px
+    );
+}
+.pokerchip-red:after {
+  content: "5";
+  background: #800000;
+  color: #6c0000;
+}

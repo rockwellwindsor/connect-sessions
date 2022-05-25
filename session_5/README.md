@@ -1,6 +1,6 @@
 # Connect Session #5
 
-  * 
+  * Introduction to CSS Grid
 
 ## Lesson Outline
 
@@ -17,13 +17,18 @@
 
 #### Activity
 
-  * 
+  * Organize the Table
+    * https://codepen.io/rockwellwindsor/pen/dyZdedN
 
 #### Handouts
+
+  <img src="./handouts/css-grid-introduction-part-1.pdf" width="204"/> <img src="./handouts/css-grid-introduction-part-2.pdf" width="204"/>
+  <img src="./handouts/css-grid-introduction-part-3.pdf" width="204"/> <img src="./handouts/css-grid-introduction-part-4.pdf" width="204"/>
 
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 
 #### Resources
 
   * CSS Tricks: https://css-tricks.com/
+    * CSS Trciks CSS Grid Guide: https://css-tricks.com/snippets/css/complete-guide-grid/
   * Using the Inspector: https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css
