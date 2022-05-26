@@ -22,16 +22,13 @@
 
 #### Handouts
 
-  Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
+  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
 
-  <figure>
     <img src="./handouts/css_grid_1.png" width="204"/> <img src="./handouts/css_grid_2.png" width="204"/>
     <img src="./handouts/css_grid_3.png" width="204"/> <img src="./handouts/css_grid_4.png" width="204"/>
-  </figure>
-  <figure>
     <img src="./handouts/css-grid-getting-started.png" width="204"/> 
     <figcaption>to see my example code for responsiveness look in the "activity" folder above</figcaption>
-  </figure>
+ 
 
 #### Resources
 
