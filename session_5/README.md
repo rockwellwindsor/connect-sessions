@@ -22,7 +22,7 @@
 
 #### Handouts
 
-  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
+  Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
 
   <figure>
     <img src="./handouts/css_grid_1.png" width="204"/> <img src="./handouts/css_grid_2.png" width="204"/>
