@@ -30,5 +30,6 @@
 #### Resources
 
   * CSS Tricks: https://css-tricks.com/
-    * CSS Trciks CSS Grid Guide: https://css-tricks.com/snippets/css/complete-guide-grid/
+    * CSS Tricks CSS Grid Guide: https://css-tricks.com/snippets/css/complete-guide-grid/
+  * CSS Grid Games: https://cssgridgarden.com/
   * Using the Inspector: https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css
