@@ -29,6 +29,10 @@
 
 #### Resources
 
+  * CSS Grid: https://www.w3schools.com/css/css_grid.asp
+    * grid-template-columns: https://www.w3schools.com/cssref/pr_grid-template-columns.asp
+    * grid-template-areas: https://www.w3schools.com/cssref/pr_grid-template-areas.asp
+    * fr value: https://css-tricks.com/introduction-fr-css-unit/
   * CSS Tricks: https://css-tricks.com/
     * CSS Tricks CSS Grid Guide: https://css-tricks.com/snippets/css/complete-guide-grid/
   * CSS Grid Games: https://cssgridgarden.com/
