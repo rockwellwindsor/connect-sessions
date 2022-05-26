@@ -23,7 +23,7 @@
 #### Handouts
 
   <img src="./handouts/css_grid_1.png" width="204"/> <img src="./handouts/css_grid_2.png" width="204"/>
-  <img src="./handouts/css_grid_3.png_" width="204"/> <img src="./handouts/css_grid_4.png_" width="204"/>
+  <img src="./handouts/css_grid_3.png" width="204"/> <img src="./handouts/css_grid_4.png" width="204"/>
 
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 
