@@ -24,8 +24,7 @@
 
   <img src="./handouts/css_grid_1.png" width="204"/> <img src="./handouts/css_grid_2.png" width="204"/>
   <img src="./handouts/css_grid_3.png" width="204"/> <img src="./handouts/css_grid_4.png" width="204"/>
-  <img src="./handouts/css-grid-ex-1.png" width="204"/> <img src="./handouts/css-grid-ex-2.png" width="204"/>
-  <img src="./handouts/css-grid-ex-3.png" width="204"/> <img src="./handouts/css-grid-getting-started.png" width="204"/> 
+  <img src="./handouts/css-grid-getting-started.png" width="204"/> 
   <figcaption>Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.</figcaption>
 
 #### Resources
