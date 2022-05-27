@@ -1,6 +1,7 @@
 # Connect Session #5
 
   * Introduction to CSS Grid
+    * See the blog project starter guide in the assets folder above to view my suggestions for how to start the project
 
 ## Lesson Outline
 
