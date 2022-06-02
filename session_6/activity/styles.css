@@ -1,0 +1,266 @@
+body {
+  padding:0;
+  margin:0;
+  min-height:100vh;
+  padding:5px;
+}
+#card-table {
+  background-color:#fff;
+  min-width:96vw;
+  min-height:100vh;
+  display:grid;
+  grid-template-columns:repeat(8,1fr);
+  grid-template-areas:
+    'topl topl topl banker banker topr topr topr'
+    'tie  tie  tie  tie    tie    tie  tie  tie'
+    'bnkb bnkb bnkb bnkb   bnkb   bnkb bnkb bnkb'
+    'plyb plyb plyb plyb   plyb   plyb plyb plyb'
+    'pos9 pos8 pos7 pos6   pos5   pos3 pos2 pos1'
+    'pos9 pos8 pos7 pos6   pos5   pos3 pos2 pos1';
+  gap:5px;
+}
+.grid-item{
+  color:gold;
+  padding:10px;
+  background:#1f3d0c;
+}
+#topl {
+  grid-area:topl;
+}
+/* Update this CSS declaration to make this container a flex box.  Then align the cards so they match the "goal" image.  You will use both vertical and horizontal positioning to do that */
+#banker {
+  background:#4b633c;
+  grid-area:banker;
+  /* here */
+  /* here */
+  /* here */
+}
+#topr {
+  grid-area:topr;
+}
+#tie {
+  grid-area:tie;
+}
+#bnkb {
+  grid-area:bnkb;
+}
+/* Update this CSS declaration to make this container a flex box.  Then align the chips so they are spaced out and align with each player card area below them. Use the image for a reference.  You will use both vertical and horizontal spacing to do this */
+#plyb {
+  background:#4b633c;
+  grid-area:plyb;
+  /* here */
+  /* here */
+  /* here */
+}
+/* Update this CSS declaration to make this container a flex box.  Then align the card so it is centered both vertically andhorizontally */
+#pos9 {
+  background:#4b633c;
+  grid-area:pos9;
+  /* here */
+  /* here */
+  /* here */
+}
+#pos8 {
+  grid-area:pos8;
+}
+#pos7 {
+  grid-area:pos7;
+}
+#pos6 {
+  grid-area:pos6;
+}
+#pos5 {
+  grid-area:pos5;
+}
+/* Update this CSS declaration to make this container a flex box.  Then align the card so it is centered both vertically andhorizontally */
+#pos3 {
+  background:#4b633c;
+  grid-area:pos3;
+  /* here */
+  /* here */
+  /* here */
+}
+#pos2 {
+  grid-area:pos2;
+}
+#pos1 {
+  grid-area:pos1;
+}
+/* DO NOT GO BELOW THIS LINE */
+/* Card CSS */
+.card {
+  background: #fff;
+  height: 195px;
+  width: 125px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+.card .top-left {
+  display: block;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.card .symbol {
+  font-size: 35px;
+  line-height: 35px;
+  margin: 0;
+}
+.red {
+  color: #ff0000;
+}
+.black {
+  color: #000;
+}
+.card .number {
+  display: inline;
+  font-size: 35px;
+  line-height: 35px;
+}
+.center {
+  display: flex;
+  width: 100%;
+  height: 45px;
+  align-items: center;
+  justify-content: center;
+}
+.center-symbol {
+  font-size: 40px;
+}
+.bottom-right {
+  display: flex;
+  justify-content: right;
+}
+.bottom-right-container {
+  transform: rotate(180deg);
+  height: 100%;
+  margin: 0 5px 5px 0;
+}
+/* Poker Chip CSS */
+.pokerchip {
+  margin: 1em;
+  position: relative;
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  box-shadow: 0 0 5px 1px rgb(0 0 0 / 50%), 0 0 3px 0 rgb(0 0 0 / 40%) inset;
+  border-radius: 50%;
+  background-size: 151px 151px;
+  background-position: center center;
+}
+.pokerchip-red {
+  background-image: linear-gradient(
+      0deg,
+      transparent 0,
+      transparent 67.5px,
+      #fff 67.5px,
+      #fff 83.5px,
+      transparent 83.5px,
+      transparent 151px
+    ),
+    linear-gradient(
+      60deg,
+      transparent 0,
+      transparent 97.4304px,
+      #fff 97.4304px,
+      #fff 113.4304px,
+      transparent 113.4304px,
+      transparent 151px
+    ),
+    linear-gradient(
+      120deg,
+      #800000 0,
+      #800000 97.4304px,
+      #fff 97.4304px,
+      #fff 113.4304px,
+      #800000 113.4304px,
+      #800000 151px
+    );
+}
+.pokerchip:before {
+  position: absolute;
+  content: "";
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  top: 8px;
+  left: 7px;
+  background-size: 151px 151px;
+  background-position: center center;
+}
+.pokerchip:after {
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  font: bold 29px/62px Arial;
+  white-space: pre;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  top: 18px;
+  left: 18px;
+  text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.3),
+    1px 1px 0px rgba(255, 255, 255, 0.2);
+}
+.pokerchip-red:before {
+  border: 8px solid #800000;
+  background-image: linear-gradient(
+      0deg,
+      transparent 0,
+      transparent 69.5px,
+      #ebebeb 69.5px,
+      #ebebeb 81.5px,
+      transparent 81.5px,
+      transparent 151px
+    ),
+    linear-gradient(
+      30deg,
+      transparent 0,
+      transparent 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      transparent 110.7104px,
+      transparent 151px
+    ),
+    linear-gradient(
+      60deg,
+      transparent 0,
+      transparent 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      transparent 110.7104px,
+      transparent 151px
+    ),
+    linear-gradient(
+      90deg,
+      transparent 0,
+      transparent 69.5px,
+      #ebebeb 69.5px,
+      #ebebeb 81.5px,
+      transparent 81.5px,
+      transparent 151px
+    ),
+    linear-gradient(
+      120deg,
+      transparent 0,
+      transparent 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      transparent 110.7104px,
+      transparent 151px
+    ),
+    linear-gradient(
+      150deg,
+      #6c0000 0,
+      #6c0000 98.7104px,
+      #ebebeb 98.7104px,
+      #ebebeb 110.7104px,
+      #6c0000 110.7104px,
+      #6c0000 151px
+    );
+}
+.pokerchip-red:after {
+  content: "5";
+  background: #800000;
+  color: #6c0000;
+}
