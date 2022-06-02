@@ -34,6 +34,6 @@
     * Justify-content: https://www.w3schools.com/cssref/css3_pr_justify-content.asp
     * Flex Container:  https://www.w3schools.com/css/css3_flexbox_container.asp
     * Flex Items: https://www.w3schools.com/css/css3_flexbox_items.asp
+  * Media Queries: https://www.w3schools.com/css/css3_mediaqueries.asp
   * CSS Tricks Flex Box Guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   * Flexbox Froggy: https://flexboxfroggy.com/
-  * Media Queries: https://www.w3schools.com/css/css3_mediaqueries.asp

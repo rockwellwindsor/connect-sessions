@@ -1,0 +1,12 @@
+/* Tablet */
+/* Portrait and Landscape */
+@media (min-width: 761px) and (max-width: 1024px) {
+  /* All style updates for tablets go here inside the {} */
+  /* Typically a tablet will have 1 or 2 columns and that is all there is really room for */
+}
+/* Phone */
+/* Portrait and Landscape */
+@media (max-width: 760px) {
+  /* All style updates for phones go here inside the {} */
+  /* Typically a phone will have 1 column and that is all there is really room for */
+}
