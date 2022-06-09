@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  width: 38vw;
+  height: 500px;
+  grid-template-columns: 300px 300px 200px;
+  margin: auto;
+  grid-gap: 15px;
+  border: 2px solid rgb(247 82 96);
+  justify-content: center; /* */ 
+}
+.item {
+  grid-area: 1/2/3/3;
+}
