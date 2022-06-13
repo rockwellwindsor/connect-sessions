@@ -1,4 +1,4 @@
-# Connect Session #6
+# Connect Session #7
 
   * Discussing approaches to the Blog Project #2
     * We will also have some discussion on how to manage file paths for linking to files
