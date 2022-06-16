@@ -1,0 +1,80 @@
+body {
+  margin:0;
+  padding:0;
+}
+#card-table {
+  background-color:#1f3d0c;
+  min-height:100vh;
+  padding:25px 50px;
+}
+.card-container {
+  min-height:250px;
+  border-bottom:1px solid white;
+  display:flex;
+  justify-content:space-evenly;
+}
+.question-container p {
+  color:gold;
+}
+.question-container .answer {
+  color:white;
+}
+code {
+  background:white;
+  padding:15px;
+  border-radius:5px;
+  color:black;
+  width:25%;
+  display:block;
+  margin:5px 0;
+}
+.card {
+  cursor:pointer;
+  background: #fff;
+  height: 250px;
+  width: 175px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  position:relative;
+  margin-bottom:15px;
+}
+.top-left {
+  display: block;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.symbol {
+  font-size: 45px;
+  line-height: 45px;
+  margin: 0;
+}
+.red {
+  color: #ff0000;
+}
+.number {
+  display: inline;
+  font-size: 45px;
+  line-height: 45px;
+}
+.center {
+  display: flex;
+  width: 100%;
+  height: 65px;
+  align-items: center;
+  justify-content: center;
+}
+.center-symbol {
+  font-size: 75px;
+}
+.bottom-right {
+  display: flex;
+  justify-content: right;
+}
+.bottom-right-container {
+  transform: rotate(180deg);
+  height: 100%;
+  margin: 0 5px 5px 0;
+}
+.hidden {
+  display:none;
+}
