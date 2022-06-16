@@ -33,4 +33,7 @@
   * W3 Introduction: https://www.w3schools.com/js/default.asp
     * Basic functionality introduction: https://www.w3schools.com/js/js_intro.asp
     * Tutorial: https://www.w3schools.com/js/
+    * "let" keyword: https://www.w3schools.com/js/js_let.asp
+    * "const" keyword: https://www.w3schools.com/js/js_const.asp
+    * Data types: https://www.w3schools.com/js/js_datatypes.asp
   * What is Javascript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
