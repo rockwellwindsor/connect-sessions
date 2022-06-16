@@ -19,13 +19,15 @@
 
 #### Activity
 
-  * 
+  * Winning at Javascript
+    * https://codepen.io/rockwellwindsor/pen/oNEJbXN
 
 #### Handout
 
   * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
   <img src="./handouts/intro_to_js_1.png" width="204"/> <img src="./handouts/intro_to_js_2.png" width="204"/> <img src="./handouts/intro_to_js_3.png" width="204"/> <img src="./handouts/intro_to_js_4.png" width="204"/>
+  <img src="./handouts/intro_to_js_5.png" width="204"/> <img src="./handouts/intro_to_js_6.png" width="204"/>
 
 #### Resources
 
-  * 
+  * What is Javascript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
