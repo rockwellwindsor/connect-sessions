@@ -30,4 +30,7 @@
 
 #### Resources
 
+  * W3 Introduction: https://www.w3schools.com/js/default.asp
+    * Basic functionality introduction: https://www.w3schools.com/js/js_intro.asp
+    * Tutorial: https://www.w3schools.com/js/
   * What is Javascript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
