@@ -32,9 +32,9 @@
 #### Resources
 
   * Javascript: https://www.w3schools.com/js/default.asp
-    * conditionals: https://www.w3schools.com/js/js_if_else.asp
+    * If statements: https://www.w3schools.com/js/js_if_else.asp
     * For Loops: https://www.w3schools.com/js/js_loop_for.asp
-    * While Loop: https://www.w3schools.com/js/js_loop_while.asp
+    * Comparison operators: https://www.w3schools.com/js/js_comparisons.asp
   * Javascript Tutorial Channel: https://www.youtube.com/c/JamesQQuick
 
 <sup>1</sup> There are no actual prizes to win
