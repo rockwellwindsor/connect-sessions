@@ -28,4 +28,5 @@
 
   * Javascript: https://www.w3schools.com/js/default.asp
     * Functions: https://www.w3schools.com/js/js_function_definition.asp
+      * https://www.w3schools.com/js/js_functions.asp
   * Games: https://www.codingame.com/ide/puzzle/onboarding
