@@ -18,7 +18,7 @@
 #### Activity
 
   * Deal to yourself part 3 - More deals
-    * https://codepen.io/rockwellwindsor/pen/WNzwrzx?editors=0010
+    * https://codepen.io/rockwellwindsor/pen/WNzwrzx
       * The to-dos are on lines: 24, 37, 41, 42, 43, 44 and 19
 
 #### Handout
