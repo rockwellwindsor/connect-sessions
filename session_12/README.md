@@ -30,3 +30,4 @@
   * Get Element By ID: https://www.w3schools.com/jsref/met_document_getelementbyid.asp
   * Event Listeners: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
   * Event Object: https://www.w3schools.com/jsref/dom_obj_event.asp
+  * DOM Events reference: https://www.w3schools.com/jsref/dom_obj_event.asp
