@@ -21,5 +21,14 @@
 // On scroll check the current scroll position and get the section it is inside by checking what two points it is between
 //
 
+const sections = ['section1','section2','section3'];
 
+// for(let i = 0; i < sections.length; i++) {
+//   const liTitle = sections[i].getAttribute('data-nav');
+//   console.log("TITLE : " + liTitle);
+// }
 
+// let sections_arr = Array.from(sections)
+// sections_arr.forEach((element) => {
+//   console.log("ARRAY ITEM : " + element.getAttribute('data-nav'));
+// })
