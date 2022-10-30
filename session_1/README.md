@@ -17,10 +17,9 @@
 
 #### Activity
 
-  * What is our "Why" for doing this?
-    * This text could potentially be used, if you wanted to to, for you blog project later on.
   * HTML Basic Syntax
-    * build a `<div></div>` (or multiple div's) in HTML to produce some cards
+    * This is an introductory lesson to get us comfortable with basic HTML syntax with elements
+    * build a `<div></div>` (or multiple div's) inside a >section> element to produce some cards
     * https://codepen.io/rockwellwindsor/pen/oNpKrqQ?editors=1100
 
 #### Handout

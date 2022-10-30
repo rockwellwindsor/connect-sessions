@@ -1,5 +1,6 @@
 body {background-color:#1f3d0c;display:flex;flex-wrap: wrap;}
 div {display:none;}
+section {display:flex;flex-direction:row;}
 section > div > div {background-color:red !important;display:block !important;height: 125px;width: 85px;border: 1px solid #000;border-radius: 5px;}
 section > div {display:block !important;margin-left:150px;margin-top:50px;background:#fff;height: 250px;width: 175px;position: relative;border-radius: 5px;border:1px solid #000;}
 body > div:nth-child(2) {transform: rotate(75deg);background:#fff;height: 250px;width: 175px;border: 1px solid #000;position: relative;border-radius: 5px;}
