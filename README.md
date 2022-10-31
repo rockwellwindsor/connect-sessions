@@ -9,7 +9,15 @@
 
 ## Resources
 
-  * OneTen Scholarship Google Sheet: https://sites.google.com/udacity.com/onetenc2/home?authuser=0
+  * Office Hours:
+    * Tuesday 6 - 7 PM EST
+    * Thursday 6 -7 PM EST
+    * Sunday 10-12PM EST
+
+  * FAQs: https://sites.google.com/udacity.com/onetenscholarship-c3/faqs
+  * Weekly Schedule Google Doc (click 'Front End Web Development' tab): https://sites.google.com/udacity.com/onetenscholarship-c3/student-resources/weekly-schedule
+  * Code of Conduct: https://sites.google.com/udacity.com/onetenscholarship-c3/student-resources/code-of-conduct
+  * Career Resources: https://sites.google.com/udacity.com/onetenscholarship-c3/careers
 
 ## About Me
 
