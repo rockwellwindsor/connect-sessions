@@ -4,8 +4,8 @@
 
 ## Weekly Schedule
 
-  <img src="./assets/img/schedule1.png" />
-  <img src="./assets/img/schedule2.png" />
+  <img src="./assets/img/schedule_1.png" />
+  <img src="./assets/img/schedule_2.png" />
 
 ## Resources
 
