@@ -19,7 +19,7 @@
 
   * HTML Basic Syntax
     * This is an introductory lesson to get us comfortable with basic HTML syntax with elements
-    * build a `<div></div>` (or multiple div's) inside a >section> element to produce some cards
+    * build a `<div></div>` (or multiple div's) inside a <section> element to produce some cards
     * https://codepen.io/rockwellwindsor/pen/oNpKrqQ?editors=1100
 
 #### Handout
