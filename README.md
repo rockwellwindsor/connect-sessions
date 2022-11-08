@@ -6,6 +6,7 @@
 
   <img src="./assets/img/schedule_1.png" />
   <img src="./assets/img/schedule_2.png" />
+  <img src="./assets/img/schedule_3.png" />
 
 ## Resources
 
