@@ -16,7 +16,7 @@ body {
   background:white;
   border-radius:5px;
   padding:4px 4px;
-  /* 7. Below this comment add CSS to place a border around the card, it might be hard to see, you can make it "red" to see it easier.  The border can be any thickness and color */
+  /* 7. Below this comment add CSS to place a border around the card, it might be hard to see, you can make it "red" to see it easier.  The border can be any thickness and color, then go to #8 on line 23 */
   border:1px solid gold;
 }
 #suit-list {
