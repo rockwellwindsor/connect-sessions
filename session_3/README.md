@@ -40,7 +40,6 @@
     * Using a CLASS: https://www.w3schools.com/html/html_classes.asp
   * File Paths: https://www.w3schools.com/html/html_filepaths.asp
     * file path blog post: https://www.kirupa.com/html5/all_about_file_paths.htm
-    * file path practice: https://sharynneazhar.github.io/fend-sessions/week2/file-paths.html
   * Inline styles, Internal Stylesheets and External Stylesheets: https://www.hostpapa.com/knowledgebase/understanding-inline-internal-external-css-styles/.
   * 7 Cheatsheets every front end developer must know: https://blog.devgenius.io/7-useful-front-end-web-developer-cheatsheets-you-must-know-32e9ef3c03bb?gi=831fef7df1a5
 
