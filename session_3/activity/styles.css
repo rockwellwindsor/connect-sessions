@@ -1,54 +1,37 @@
-body {padding:0;margin:0;}
-
+body {
+  padding:0;
+  margin:0;
+  height:200vh;
+}
 #card-table {
   background-color:#1f3d0c;
   display:flex;
   flex-wrap: wrap;
-  height:100vh;
-}
-#card-table .card {
-  margin:50px;
-  background:#fff;
-  height: 250px;
-  width: 175px;
-  border: 1px solid #000;
-  position: relative;
-  border-radius: 5px;
-}
-#card-table .card #top-left {
-  display:block;
-  margin-left: 5px;
-  margin-top: 5px;
-}
-#card-table .card #center {
-  display:flex;
-  width:100%;
-  height:65px;
-  align-items:center;
-  justify-content:center;
-}
-#card-table .card #center #center-suit {
-  font-size:75px;
-  color: #ff0000;
-}
-#card-table .card #bottom-right {
-  display:flex;
-  justify-content:right;
-}
-#card-table .card #bottom-right .bottom-right-container {
-  transform: rotate(180deg);
   height:100%;
-  margin:0 5px 5px 0;
+  padding:25px 50px;
 }
-.number {
-  margin:0;
-  font-size: 45px;
-  color: #ff0000; 
-  line-height: 45px;
+#card {
+  height:250px;
+  width:175px;
+  background:white;
+  border-radius:5px;
+  padding:4px 4px;
+  /* 7. Below this comment add CSS to place a border around the card, it might be hard to see, you can make it "red" to see it easier.  The border can be any thickness and color */
+  border:1px solid gold;
+}
+#suit-list {
+  /* 8. Below this comment add CSS to place a border around the list.  The border can be any thickness and color */
+  border:1px solid red;
+  /* BONUS: Can you remove the list styling? Try to add the CSS below this line if you want */
 }
 .suit {
   font-size: 45px;
-  color: #ff0000; 
   line-height: 45px;
-  margin:0;
+  margin: 0;
+}
+.red {
+  color: #ff0000;
+}
+.black {
+  color: #000;
 }

@@ -17,8 +17,8 @@
 
 #### Activity
 
-  * Making the Card your own
-    * https://codepen.io/rockwellwindsor/pen/KKQVrZe
+  * Making your first Card
+    * https://codepen.io/rockwellwindsor/pen/OJEjExN
 
 #### Handouts
 
