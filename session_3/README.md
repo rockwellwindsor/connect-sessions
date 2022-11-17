@@ -18,6 +18,9 @@
   * Class Session times this week to attend in order to make up for the holiday break.  All times are EST
     * https://files.slack.com/files-pri/T046D6UNPMX-F049KRD16KX/image.png
 
+  * Project #1 Walkthrough
+    * https://drive.google.com/file/d/1U9t2n-BPqz8P0Xv3AszdrP4XKWZNnRcB/view
+
 #### Activity
 
   * Making your first Card
