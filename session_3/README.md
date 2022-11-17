@@ -15,6 +15,9 @@
   * Recap of lesson
   * Q & A
 
+  * Class Session times this week to attend in order to make up for the holiday break.  All times are EST
+    * https://files.slack.com/files-pri/T046D6UNPMX-F049KRD16KX/image.png
+
 #### Activity
 
   * Making your first Card
