@@ -3,6 +3,13 @@ body {
   margin:0;
   height:200vh;
 }
+h1 {
+  text-align:center;
+}
+.img {
+  margin-left: 40px;
+  width:55%;
+}
 #card-table {
   background-color:#1f3d0c;
   display:flex;
@@ -11,18 +18,14 @@ body {
   padding:25px 50px;
 }
 #card {
-  height:250px;
-  width:175px;
+  height:300px;
+  width:215px;
   background:white;
   border-radius:5px;
   padding:4px 4px;
-  /* 7. Below this comment add CSS to place a border around the card, it might be hard to see, you can make it "red" to see it easier.  The border can be any thickness and color, then go to #8 on line 23 */
-  border:1px solid gold;
 }
 #suit-list {
-  /* 8. Below this comment add CSS to place a border around the list.  The border can be any thickness and color */
-  border:1px solid red;
-  /* BONUS: Can you remove the list styling? Try to add the CSS below this line if you want */
+  border:2px solid gold;
 }
 .suit {
   font-size: 45px;
