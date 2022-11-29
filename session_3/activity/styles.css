@@ -1,3 +1,9 @@
+:root {
+  --green:#1f3d0c;
+  --red:#ff0000;
+  --black:#000000;
+}
+
 body {
   padding:0;
   margin:0;
@@ -11,7 +17,7 @@ h1 {
   width:55%;
 }
 #card-table {
-  background-color:#1f3d0c;
+  background-color: var(--green);
   display:flex;
   flex-wrap: wrap;
   height:100%;
@@ -33,8 +39,8 @@ h1 {
   margin: 0;
 }
 .red {
-  color: #ff0000;
+  color: var(--red);
 }
 .black {
-  color: #000;
+  color: var(--black);
 }
