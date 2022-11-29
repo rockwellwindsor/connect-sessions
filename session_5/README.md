@@ -23,6 +23,11 @@
 
     * Answer should look like this: <br />
       <img src="./assets/grid-answer.png" width="500">
+
+    * If it helps, use the insector and click on the "grid" pill button to show the grid outlines <br />
+      <img src="./assets/grid-answer-a.png" width="500"> <br />
+      <img src="./assets/grid-answer-b.png" width="500"> <br />
+
 #### Handouts
 
   * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
