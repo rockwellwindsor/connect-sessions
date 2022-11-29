@@ -21,7 +21,7 @@
   * Organize the Table
     * https://codepen.io/rockwellwindsor/pen/dyZdedN
 
-    * Answer should look like this:
+    * Answer should look like this: <br />
       <img src="./assets/grid-answer.png" width="204">
 #### Handouts
 
