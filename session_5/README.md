@@ -22,7 +22,7 @@
     * https://codepen.io/rockwellwindsor/pen/dyZdedN
 
     * Answer should look like this:
-      <img src="./grid-answer.png" width="204">
+      <img src="./assets/grid-answer.png" width="204">
 #### Handouts
 
   * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
