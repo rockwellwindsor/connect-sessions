@@ -22,7 +22,7 @@
   * Organize the Table (again)
     * https://codepen.io/rockwellwindsor/pen/MWQrBVE
   * Goal Image <br />
-    <img src="./assets/flexbox_goal.png" width="600"/> 
+    <img src="./assets/flexbox_goal.png" width="850"/> 
 
 #### Handout
 
