@@ -21,6 +21,8 @@
 
   * Organize the Table (again)
     * https://codepen.io/rockwellwindsor/pen/MWQrBVE
+  * Goal Image
+    <img src="./assets/flexbox_goal.png" width="600"/> 
 
 #### Handout
 
