@@ -21,7 +21,7 @@
   * Organize the Table
     * https://codepen.io/rockwellwindsor/pen/dyZdedN
 
-    * Use the grid defined in the CSS tab starting on line 22 to poistion the elements to match the image.
+    * Use the grid defined in the CSS tab starting on line 22 to position the elements to match the image.
     * The elements are listed in order from left to right in the view and starting on line 31 in the CSS (specifically lines 31 - 49 are the CSS definitions)
     * For each element set its `grid-area` property to position it on the table to match the image.
     * <b>NOTE:</b> the cards are randomly generated so your card numbers and suites will not match the image, and that is <i>NOT</i> an indicator that anything is off.
