@@ -1,0 +1,100 @@
+body {
+  background: #000;
+}
+
+/* Step 1 Setup Grid */
+.grid-container {
+  min-height: 92vh;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  /* I use this value here because the grid has no content, so in order to see the boxes they need a default height */
+  grid-template-rows: minmax(100px, auto); 
+  grid-template-areas:
+    'hd hd hd hd hd hd'
+    'sb lc lc lc rc rc'
+    'ft ft ft ft ft ft';
+  gap: 10px;
+  background-color: #ffff00;
+  padding: 10px;
+}
+/* Step 2 Assign Areas */
+#header {
+  grid-area: hd;
+  background-color: #00ff00;
+/*  display:flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content:space-between;*/
+}
+#header #brand {
+  border:2px solid #000;
+  border-radius:5px;
+  padding:10px;
+}
+#sidebar {
+  grid-area: sb;
+  background-color: #ff0000;
+  min-height: 250px;
+}
+#content-left {
+  grid-area: lc;
+  background-color: #0000ff;
+}
+#content-right {
+  grid-area: rc;
+  background-color: #ff00ff;
+}
+#footer {
+  grid-area: ft;
+  background-color: #00ffff;
+}
+
+.flex-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.flex-container .box {
+  flex-basis: 24%; /* 25% */
+  height: 75px;
+  border: 1px solid #000;
+  flex-wrap: wrap;
+}
+
+/* Tablet */
+/* Portrait and Landscape */
+@media (min-width: 761px) and (max-width: 1024px) {
+  .grid-container {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas:
+      'hd hd hd hd'
+      'lc lc rc rc'
+      'sb sb sb sb'
+      'ft ft ft ft';
+  }
+  #sidebar {
+    min-height: 125px;
+  }
+  .flex-container .box {
+    flex-basis: 49%;
+  }
+}
+/* Phone */
+/* Portrait and Landscape */
+@media (max-width: 760px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+      'hd hd'
+      'lc lc'
+      'rc rc'
+      'sb sb'
+      'ft ft';
+  }
+  #sidebar {
+    min-height: 100px;
+  }
+  .flex-container .box {
+    flex-basis: 100%;
+  }
+}
