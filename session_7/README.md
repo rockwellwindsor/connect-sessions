@@ -18,7 +18,7 @@
 
 #### Activity
 
-  * Taking a break from the paying cards today to focus on project preparation.
+  * Taking a break from the playing cards today to focus on project preparation (don't worry they will be back).
 
   * For those of you that have not yet tonight our project is to set up the blog project to prepare for building it out
 
