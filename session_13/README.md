@@ -1,4 +1,4 @@
-# Connect Session #13
+# Connect Session #10
 
 ## Lesson Outline
 
@@ -13,19 +13,20 @@
 
 #### Lesson
 
-  * Interacting with the DOM
-    * Getting element by Class name, tag name.
-    * Listening for events
+  * Introduction to Javascript Functions
 
 #### Activity
 
-  * Getting the Elements
-    * https://codepen.io/rockwellwindsor/pen/wvpjPPr
+  * Deal to yourself part 2 - It's no big "deal"
+    * https://codepen.io/rockwellwindsor/pen/BaraWGO
+      * First - Setup your hand of cards by building out the array of arrays (example in the code)
+      * Second - Build out the 3 statements for the "for" loop so it runs
+        * you must use the "i" variable in this "for" loop
+      * Third - Call the 'dealTheHand' on the marked line to set everything off when the button is clicked.
 
 #### Resources
 
-  * Getting Elements By Class name: https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
-  * Getting elements by tag name: https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp
-  * Query Selector: https://www.w3schools.com/jsref/met_document_queryselector.asp
-  * Query selector all: https://www.w3schools.com/jsref/met_document_queryselectorall.asp
-  * Events Reference: https://www.w3schools.com/jsref/dom_obj_event.asp
+  * Javascript: https://www.w3schools.com/js/default.asp
+    * Functions: https://www.w3schools.com/js/js_function_definition.asp
+      * https://www.w3schools.com/js/js_functions.asp
+  * Games: https://www.codingame.com/ide/puzzle/onboarding

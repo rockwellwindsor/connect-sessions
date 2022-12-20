@@ -1,35 +1,39 @@
-# Connect Session #11
+# Connect Session #8
+
+  * Introduction to Javascript
 
 ## Lesson Outline
 
   * Ice-Breaker
+    * Go around the room and have everyone introduce themselves
+      * Share what got you interested in this course
+      * Share one new thing you have learned so far big or small
   * Status Check in
     * Discussion of current student progress
-  * Topic/Project/Learning Session
+    * Any projects due, how is that going?
+  * Topic/Project/ Learning Session
   * Break
-    * 10 minutes
+    * Activity
   * Recap of lesson
   * Q & A
 
-#### Lesson
-
-  * Arrays and objects
-
 #### Activity
 
-  * Deal to yourself part 3 - More deals
-    * https://codepen.io/rockwellwindsor/pen/WNzwrzx
-      * The to-dos are on lines: 24, 37, 41, 42, 43, 44 and 19
+  * Winning at Javascript
+    * https://codepen.io/rockwellwindsor/pen/oNEJbXN
 
 #### Handout
 
   * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
-  <img src="./handouts/arrays_1.png" width="204"/> <img src="./handouts/arrays_2.png" width="204"/> <img src="./handouts/objects_1.png" width="204"/> <img src="./handouts/objects_2.png" width="204"/>
-
+  <img src="./handouts/intro_to_js_1.png" width="204"/> <img src="./handouts/intro_to_js_2.png" width="204"/> <img src="./handouts/intro_to_js_3.png" width="204"/> <img src="./handouts/intro_to_js_4.png" width="204"/>
+  <img src="./handouts/intro_to_js_5.png" width="204"/>
 
 #### Resources
 
-  * Arrays: https://www.w3schools.com/js/js_arrays.asp
-    * Methods: https://www.w3schools.com/js/js_array_methods.asp
-    * Reference: https://www.w3schools.com/jsref/jsref_obj_array.asp
-  * Objects: https://www.w3schools.com/js/js_objects.asp
+  * W3 Introduction: https://www.w3schools.com/js/default.asp
+    * Basic functionality introduction: https://www.w3schools.com/js/js_intro.asp
+    * Tutorial: https://www.w3schools.com/js/
+    * "let" keyword: https://www.w3schools.com/js/js_let.asp
+    * "const" keyword: https://www.w3schools.com/js/js_const.asp
+    * Data types: https://www.w3schools.com/js/js_datatypes.asp
+  * What is Javascript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript

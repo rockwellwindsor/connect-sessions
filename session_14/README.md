@@ -1,4 +1,4 @@
-# Connect Session #14
+# Connect Session #11
 
 ## Lesson Outline
 
@@ -13,15 +13,23 @@
 
 #### Lesson
 
-  * Talking about the window object, events and discussing some tips for the landing page project
+  * Arrays and objects
+
+#### Activity
+
+  * Deal to yourself part 3 - More deals
+    * https://codepen.io/rockwellwindsor/pen/WNzwrzx
+      * The to-dos are on lines: 24, 37, 41, 42, 43, 44 and 19
 
 #### Handout
 
   * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
-    <img src="./handouts/session_14_useful_methods.png" width="204"/> <img src="./handouts/session_14_tips.png" width="204"/> 
+  <img src="./handouts/arrays_1.png" width="204"/> <img src="./handouts/arrays_2.png" width="204"/> <img src="./handouts/objects_1.png" width="204"/> <img src="./handouts/objects_2.png" width="204"/>
+
 
 #### Resources
 
-  * Browser Events: https://javascript.info/introduction-browser-events
-    * Capture/Bubbling: https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing
-    * Window Object: https://www.w3schools.com/jsref/obj_window.asp
+  * Arrays: https://www.w3schools.com/js/js_arrays.asp
+    * Methods: https://www.w3schools.com/js/js_array_methods.asp
+    * Reference: https://www.w3schools.com/jsref/jsref_obj_array.asp
+  * Objects: https://www.w3schools.com/js/js_objects.asp

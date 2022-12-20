@@ -1,23 +1,28 @@
-/* Build out the last card and get the cards in a row */
-.container {
-  background: #1f3d0c;
-  padding:15px;
-}
 .card-container {
   padding: 15px;
   width: 97vw;
   min-height: 97vh;
+  background: #1f3d0c;
   display: grid;
   grid-gap: 15px;
   grid-template-columns: repeat(5, 1fr);
   /* grid-template-rows: ; */
 }
 .card {
+  cursor:pointer;
   background: #fff;
   height: 250px;
   width: 175px;
   border: 1px solid #000;
   border-radius: 5px;
+  position:relative;
+  z-index:1;
+}
+.card_unturned {
+  height:307px;
+  cursor:pointer;
+  margin-top:-23px;
+  margin-left:-22px;
 }
 .top-left {
   display: block;
@@ -59,14 +64,4 @@
   height: 100%;
   margin: 0 5px 5px 0;
 }
-.deal-btn {
-  width: 99%;
-  padding: 15px;
-  background-color: #b8860b;
-  margin-bottom: 15px;
-  font-size:25px;
-}
-/* This is a just a helper */
-.hidden {
-  opacity: 0;
-}
+.hidden {display:none;}

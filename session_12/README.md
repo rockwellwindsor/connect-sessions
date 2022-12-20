@@ -1,33 +1,40 @@
-# Connect Session #12
+# Connect Session #9
+
+  * Javascript
+    * for loops and if statements
 
 ## Lesson Outline
 
   * Ice-Breaker
+    * Go around the room and have everyone introduce themselves
+      * Share what got you interested in this course
+      * Share one new thing you have learned so far big or small
   * Status Check in
     * Discussion of current student progress
-  * Topic/Project/Learning Session
+    * Any projects due, how is that going?
+  * Topic/Project/ Learning Session
   * Break
-    * 10 minutes
+    * Activity
   * Recap of lesson
   * Q & A
 
-#### Lesson
-
-  * Interacting with the DOM
-    * Getting element by ID.
-    * Listening for events
-
 #### Activity
 
-  * It's no big deal 4: The DOM
-    * https://codepen.io/rockwellwindsor/pen/XWEjvKb
-      * The to-dos are on lines: 24, 37, 41, 42, 43, 44, 20, 19 and 15.
+  * Deal to yourself. The best hand wins!<sup>1</sup>
+    * https://codepen.io/rockwellwindsor/pen/XWVjjda
+
+
+#### Handout
+
+  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
+  <img src="./handouts/js_1.png" width="204"/> <img src="./handouts/js_2.png" width="204"/> <img src="./handouts/js_3.png" width="204"/> <img src="./handouts/js_4.png" width="204"/>
 
 #### Resources
 
-  * What is the DOM: https://www.w3schools.com/whatis/whatis_htmldom.asp
-  * The DOM: https://www.w3schools.com/js/js_htmldom.asp
-  * Get Element By ID: https://www.w3schools.com/jsref/met_document_getelementbyid.asp
-  * Event Listeners: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
-  * Event Object: https://www.w3schools.com/jsref/dom_obj_event.asp
-  * DOM Events reference: https://www.w3schools.com/jsref/dom_obj_event.asp
+  * Javascript: https://www.w3schools.com/js/default.asp
+    * If statements: https://www.w3schools.com/js/js_if_else.asp
+    * For Loops: https://www.w3schools.com/js/js_loop_for.asp
+    * Comparison operators: https://www.w3schools.com/js/js_comparisons.asp
+  * Javascript Tutorial Channel: https://www.youtube.com/c/JamesQQuick
+
+<sup>1</sup> There are no actual prizes to win

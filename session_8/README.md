@@ -1,13 +1,11 @@
 # Connect Session #8
 
-  * Introduction to Javascript
+  * Media Queries/ Responsive Design
 
 ## Lesson Outline
 
   * Ice-Breaker
-    * Go around the room and have everyone introduce themselves
-      * Share what got you interested in this course
-      * Share one new thing you have learned so far big or small
+    * How is the week going?
   * Status Check in
     * Discussion of current student progress
     * Any projects due, how is that going?
@@ -19,21 +17,12 @@
 
 #### Activity
 
-  * Winning at Javascript
-    * https://codepen.io/rockwellwindsor/pen/oNEJbXN
+  * Making a Grid Responsive
+    * https://codepen.io/rockwellwindsor/pen/KKBKKjb
 
-#### Handout
-
-  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
-  <img src="./handouts/intro_to_js_1.png" width="204"/> <img src="./handouts/intro_to_js_2.png" width="204"/> <img src="./handouts/intro_to_js_3.png" width="204"/> <img src="./handouts/intro_to_js_4.png" width="204"/>
-  <img src="./handouts/intro_to_js_5.png" width="204"/>
 
 #### Resources
 
-  * W3 Introduction: https://www.w3schools.com/js/default.asp
-    * Basic functionality introduction: https://www.w3schools.com/js/js_intro.asp
-    * Tutorial: https://www.w3schools.com/js/
-    * "let" keyword: https://www.w3schools.com/js/js_let.asp
-    * "const" keyword: https://www.w3schools.com/js/js_const.asp
-    * Data types: https://www.w3schools.com/js/js_datatypes.asp
-  * What is Javascript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+  * CSS Tricks - Complete guide to Media Queries: https://css-tricks.com/a-complete-guide-to-css-media-queries/
+  * CSS Tricks - Mobile devices sizes: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+  * CSS Tricks: https://css-tricks.com/responsive-layouts-fewer-media-queries/
