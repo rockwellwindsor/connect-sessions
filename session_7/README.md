@@ -29,7 +29,7 @@
     * One one folder for your pages (the index/landing page can be outside this folder but as per the rubric other pages need to be in this folder)
   * In the parent folder create your home page HTML file.  Name it whatever you like, keep it description and again, lower case no spaces.  Common example would be `index.html`.
   * If you know what other pages you are going to want for the project create them inside the folder you made for the pages.
-  * In your CSS folder crate your "main" CS file (see hint #2 below).
+  * In your CSS folder create your "main" CSS file (see hint #2 below).
   * Use my HTML template if you want to to get a basic template for an HTML file in your HTML files. You can find the HTML by clicking on the "assets" link above and then clicking on the "sample.html" link in that view.
     * Link to your main stylesheet in the HTMl files.
 
