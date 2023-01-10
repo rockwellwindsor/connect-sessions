@@ -21,7 +21,8 @@
 
   * Something to be thinking about going forward:
   <blockquote>
-    The name of a variable, function, class, CSS class or id, should answer all the "big" questionsIt shoudl tell you why it exists, what it does, and how it is used.  If the name requires a comment then the name does not reveal it's intent"
+    The name of a variable, function, class, CSS class or id, folder name, file name, should answer all the "big" questionsIt should tell you why it exists, what it does, and how it is used.  If the name requires a comment then the name does not reveal it's intent"
+    ~ Clean Code by Robert C. Martin
   </blockquote>
 
   * Ex.
