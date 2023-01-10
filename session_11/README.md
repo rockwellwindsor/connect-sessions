@@ -24,10 +24,10 @@
     The name of a variable, function, class, CSS class or id, should answer all the "big" questionsIt shoudl tell you why it exists, what it does, and how it is used.  If the name requires a comment then the name does not reveal it's intent"
   </blockquote>
 
-  * Ex.<br />
-  <code>
+  * Ex.
+  ```
     let e; // Elapsed time of day
-  </code>
+  ```
 
 #### Activity
 
