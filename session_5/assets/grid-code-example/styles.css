@@ -10,7 +10,7 @@ body {
   /* I use this value here because the grid has no content, so in order to see the boxes they need a default height */
   grid-template-rows: minmax(100px, auto); 
   grid-template-areas:
-    'hd hd hd hd hd hd'
+    'sb hd hd hd hd hd'
     'sb lc lc lc rc rc'
     'ft ft ft ft ft ft';
   gap: 10px;
@@ -34,6 +34,9 @@ body {
 #content-right {
   grid-area: rc;
   background-color: #ff00ff;
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
 }
 #footer {
   grid-area: ft;
@@ -47,9 +50,11 @@ body {
 }
 .flex-container .box {
   flex-basis: 24%; /* 25% */
-  height: 75px;
+/*  height: 75px;*/
   border: 1px solid #000;
   flex-wrap: wrap;
+  border-radius:5px;
+  padding:10px;
 }
 
 /* Tablet */
@@ -86,6 +91,6 @@ body {
     min-height: 100px;
   }
   .flex-container .box {
-    flex-basis: 100%;
+    width:100%;
   }
 }
