@@ -1,4 +1,4 @@
-# Connect Session #8
+# Connect Session #11
 
   * Introduction to Javascript
 
