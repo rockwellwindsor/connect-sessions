@@ -1,4 +1,4 @@
-# Connect Session #15
+# Connect Session #18
 
 ## Lesson Outline
 
