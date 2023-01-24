@@ -13,23 +13,20 @@
 
 #### Lesson
 
-  * Arrays and objects
+  * Introduction to Javascript Functions
 
 #### Activity
 
-  * Deal to yourself part 3 - More deals
-    * https://codepen.io/rockwellwindsor/pen/WNzwrzx
-      * The to-dos are on lines: 24, 37, 41, 42, 43, 44 and 19
-
-#### Handout
-
-  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
-  <img src="./handouts/arrays_1.png" width="204"/> <img src="./handouts/arrays_2.png" width="204"/> <img src="./handouts/objects_1.png" width="204"/> <img src="./handouts/objects_2.png" width="204"/>
-
+  * Deal to yourself part 2 - It's no big "deal"
+    * https://codepen.io/rockwellwindsor/pen/BaraWGO
+      * First - Setup your hand of cards by building out the array of arrays (example in the code)
+      * Second - Build out the 3 statements for the "for" loop so it runs
+        * you must use the "i" variable in this "for" loop
+      * Third - Call the 'dealTheHand' on the marked line to set everything off when the button is clicked.
 
 #### Resources
 
-  * Arrays: https://www.w3schools.com/js/js_arrays.asp
-    * Methods: https://www.w3schools.com/js/js_array_methods.asp
-    * Reference: https://www.w3schools.com/jsref/jsref_obj_array.asp
-  * Objects: https://www.w3schools.com/js/js_objects.asp
+  * Javascript: https://www.w3schools.com/js/default.asp
+    * Functions: https://www.w3schools.com/js/js_function_definition.asp
+      * https://www.w3schools.com/js/js_functions.asp
+  * Games: https://www.codingame.com/ide/puzzle/onboarding
