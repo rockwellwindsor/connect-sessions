@@ -17,7 +17,7 @@
 
 #### Activity
 
-  * Deal to yourself part 2 - It's no big "deal"
+  * Deal to yourself part 3 - It's no big "deal"
     * https://codepen.io/rockwellwindsor/pen/BaraWGO
       * First - Setup your hand of cards by building out the array of arrays (example in the code)
       * Second - Build out the 3 statements for the "for" loop so it runs
