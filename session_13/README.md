@@ -18,8 +18,8 @@
 #### Activity
 
   * Deal to yourself part 2 - More deals
-    * https://codepen.io/rockwellwindsor/pen/WNzwrzx
-      * The to-dos are on lines: 24, 37, 41, 42, 43 and 44
+    * https://codepen.io/rockwellwindsor/pen/yLqqLPb
+      * The to-do's are on lines: 24,59,62,66,67 and 68
 
 #### Handout
 
