@@ -19,10 +19,7 @@
 
   * Deal to yourself part 3 - It's no big "deal"
     * https://codepen.io/rockwellwindsor/pen/BaraWGO
-      * First - Setup your hand of cards by building out the array of arrays (example in the code)
-      * Second - Build out the 3 statements for the "for" loop so it runs
-        * you must use the "i" variable in this "for" loop
-      * Third - Call the 'dealTheHand' on the marked line to set everything off when the button is clicked.
+      * TO-DOs are on lines 24, 59, 63, 67, 68, 69, 70 and 19
 
 #### Resources
 
