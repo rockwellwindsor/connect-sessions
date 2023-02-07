@@ -21,7 +21,7 @@
 
   * It's no big deal 4: The DOM
     * https://codepen.io/rockwellwindsor/pen/XWEjvKb
-      * The to-dos are on lines: 14, 16, 17, 20, 55, 59, 63, 64, 65, 66.
+      * The to-dos are on lines: 14, 17, 18, 25, 60, 64, 68, 69, 70, 71.
 
 #### Resources
 
