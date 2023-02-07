@@ -13,7 +13,7 @@
 
 #### Lesson
 
-  * Interacting with the DOM
+  * Introduction to the DOM
     * Getting element by ID.
     * Listening for events
 
@@ -21,7 +21,7 @@
 
   * It's no big deal 4: The DOM
     * https://codepen.io/rockwellwindsor/pen/XWEjvKb
-      * The to-dos are on lines: 24, 37, 41, 42, 43, 44, 20, 19 and 15.
+      * The to-dos are on lines: 14, 16, 17, 20, 55, 59, 63, 64, 65, 66.
 
 #### Resources
 
