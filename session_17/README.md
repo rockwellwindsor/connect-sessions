@@ -13,15 +13,15 @@
 
 #### Lesson
 
-  * Talking about the window object, events and discussing some tips for the landing page project
+  * Understanding Javascript events
 
-#### Handout
+#### Activity
 
-  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
-    <img src="./handouts/session_14_useful_methods.png" width="204"/> <img src="./handouts/session_14_tips.png" width="204"/> 
+  * Getting the Elements and listening for events
+    * https://codepen.io/rockwellwindsor/pen/wvpjPPr
 
 #### Resources
 
   * Browser Events: https://javascript.info/introduction-browser-events
     * Capture/Bubbling: https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing
-    * Window Object: https://www.w3schools.com/jsref/obj_window.asp
+  * Events Reference: https://www.w3schools.com/jsref/dom_obj_event.asp

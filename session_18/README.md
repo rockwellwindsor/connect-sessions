@@ -22,6 +22,10 @@
   * How'd you do that?
     * https://codepen.io/rockwellwindsor/pen/BaYBbvy
 
+#### Handouts
+
+  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
+    <img src="./handouts/session_14_useful_methods.png" width="204"/> <img src="./handouts/session_14_tips.png" width="204"/> 
 
 #### Resources
 
