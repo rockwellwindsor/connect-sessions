@@ -18,7 +18,7 @@
 #### Activity
 
   * Getting the Elements and listening for events
-    * https://codepen.io/rockwellwindsor/pen/wvpjPPr
+    * https://codepen.io/rockwellwindsor/pen/BaYBbvy
 
 #### Resources
 

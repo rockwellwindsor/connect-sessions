@@ -65,13 +65,27 @@ section {
 
 /* Navigation Styles*/
 .navbar__menu ul {
-    padding-left: 0;
     margin: 0;
     text-align: right;
+    /* Custom Styles */
+    padding: 0 25px 0 0;
+    height: 75px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
 }
 
 .navbar__menu li {
     display: inline-block;
+    /* custom styles */
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.nav-item.active {
+  color: #cc1;
 }
 
 .navbar__menu .menu__link {
@@ -222,3 +236,7 @@ section.your-active-class .landing__container::after {
   }
 }
 
+/* Phone - Portrait and Landscape */
+@media screen and (max-width: 760px) {
+  section {padding-top: 25px;}
+}

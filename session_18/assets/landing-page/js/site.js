@@ -1,34 +1,25 @@
 // RECOMMENDED STEPS
 //
 // Include the JS file in the HTML
-// SET UP THE NAV BAR
-// Get a reference to each section on the page
-//  * get it's id value
-//  * get it's name from the data-nav attribute
-// Get a reference to the UL that exists in the HTML
-// Create LI elements to add to the nav
-//  * the href needs to be the section ID
-//  * the name is the name value from the data-nav attribute on the section
-//  * add a class to the element
-//  * add an event listener to the li
-//    * get the id
-// Append li elements to the ul
-//  * they should have a data-id attrbute that matches the id of the section
-//  * their name should be the readable title of the section
-// HANDLE SCROLL
-// Using the sections variable you created earlier get thier top positions on the page and store the values in an array
-// Using the window object track the current scroll position
-// On scroll check the current scroll position and get the section it is inside by checking what two points it is between
 //
-
-const sections = ['section1','section2','section3'];
-
-// for(let i = 0; i < sections.length; i++) {
-//   const liTitle = sections[i].getAttribute('data-nav');
-//   console.log("TITLE : " + liTitle);
-// }
-
-// let sections_arr = Array.from(sections)
-// sections_arr.forEach((element) => {
-//   console.log("ARRAY ITEM : " + element.getAttribute('data-nav'));
-// })
+// SET UP THE NAV BAR
+// * Get a reference to each section on the page
+//   * get it's id value
+//   * get it's name from the data-nav attribute
+//
+// * Get a reference to the UL that exists in the HTML
+// * Create LI elements to add to the nav
+//   * create an anchor element to go inside the <li>
+//   * the href needs to be the section ID
+//   * the name is the name value from the data-nav attribute on the section
+//   * add a class to the element
+//   * add an event listener to the li
+//     * get the id
+// * Append li elements to the ul
+//   * their name should be the readable title of the section
+//
+// HANDLE SCROLL
+// * Using the sections variable you created earlier get thier top positions on the page and store the values in an array
+// * Using the window object track the current scroll position
+// * On scroll check the current scroll position and get the section it is inside by checking what two points it is between
+//
