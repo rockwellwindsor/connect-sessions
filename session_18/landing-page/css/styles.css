@@ -68,13 +68,13 @@ section {
     margin: 0;
     text-align: right;
     /* Custom Styles */
-    padding: 0 25px 0 0;
+/*    padding: 0 25px 0 0;
     height: 75px;
     display: flex;
     justify-content: right;
     align-items: center;
     background-color: #000;
-    color: #fff;
+    color: #fff;*/
 }
 
 .navbar__menu li {
@@ -83,11 +83,11 @@ section {
     margin-right: 15px;
     cursor: pointer;
 }
-
-.nav-item.active {
+/* Custom Styles */
+/*.nav-item.active {
   color: #cc1;
 }
-
+*/
 .navbar__menu .menu__link {
     display: block;
     padding: 1em;

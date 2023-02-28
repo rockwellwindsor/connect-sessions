@@ -1,0 +1,102 @@
+<!DOCTYPE >
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Manipulating the DOM</title>
+    <!-- Load Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:900|Merriweather&display=swap" rel="stylesheet"><!-- Load Styles -->
+    <link href="css/notes.css" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Landing Page Work Through Notes</h1>
+    <section>
+      <ul>
+        <li class="jump-link" data-id="build-nav">Build the navigation menu dynamically based on the number of sections
+          <ul>
+            <li>This is tested by copying the section block and changing it's ID and seeing if the  page still works</li>
+          </ul>
+        </li>
+        <li class="jump-link" data-id="handle-click">When a nav item is clicked, corresponding section should be scrolled into view</li>
+        <li class="jump-link" data-id="handle-scroll">When the page is scrolled, using the mouse for example, and a section is visible in the viewport
+          <ul>
+            <li>The corresponding nav item should be highlighted</li>
+            <li>The section should be given an <i>active</i> state class with special styles</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>Helpful Javascript Methods you will want to utilize</h2>
+      <h3>Getting elements on the Page</h3>
+      <ul>
+        <li>querySelectorAll()</li>
+        <li>getElementById()</li>
+        <li>getElementsByClassName()</li>
+        <li>getBoundingClientRect()
+          <ul>
+            <li><i>HINT</i>: <b>getBoundingClientRect().top</b> will get you the top location of a section.
+          </ul>
+        </li>
+      </ul>
+      <h3>Creating/Adding Elements</h3>
+      <ul>
+        <li>createElement()</li>
+        <li>appendChild()</li>
+      </ul>
+      <h3>Detecting Postions</h3>
+      <ul>
+        <li>scrollIntoView()</li>
+        <li>scrollBy()</li>
+        <li>scroll()</li>
+      </ul>
+    </section>
+    <section id="build-nav">
+      <h3>Build the navigation menu dynamically based on the number of sections</h3>
+      <p><i>HINT</i>: Use <em>console.log()</em> to log out values and see what they are, this will help you visualize the data as you are grabbing it and creating it.</p>
+      <p><i>HINT</i>: An li by default does not have the finger cursor which people recognize as for clicking.  To change that, in your CSS use `li {cursor:pointer;}` to give li elements the click more noticably.</p>
+      <ul>
+        <li>For each section element on the page you need to create a corresponding li to append to the nav
+          <ul>
+            <li>Select all sections on the page.</li>
+            <li>Loop through them</li>
+            <li>The title for the li should be the data-nav value from the section element</li>
+            <li>The id of the section is what you will use as the scroll target when clicking the li</li>
+            <li>Create and then build the li element, once you have the title set for it and the id attribute set on it, append it to the nav</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section id="handle-click">
+      <h3>When a nav item is clicked, corresponding section should be scrolled into view</h3>
+      <p><i>HINT</i>: Again, utilize the <em>console.log()</em> to check you are getting the expected values on click, once that is happening set up moving to the correct section</p>
+      <ul>
+        <li>When you are building out the li element, after you append them to the nav add an event listener to listen for a "click" on them</li>
+        <li>When clicked you scroll to the matching section.
+          <ul>
+            <li>This is done via the <i>id</i> value.  The id value on the li tells you which section you need to scroll to (the scrollTarget that is)</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section id="handle-scroll">
+      <h3>When the page is scrolled, using the mouse for example, and a section is visible in the viewport</h3>
+      <p><i>HINT</i>: Utilize <em>window.scrollYOffset</em> to track where you are positioned in the window when scrolling.  Us that value to check for the boundries of sections to know what section to make "active".</p>
+      <ul>
+        <li>set an event listener on the window to listen for "scroll".</li>
+        <li>When the window's scroll event listener triggers call a method to check where you are on the page and determine what sections boundries you are inside of.
+          <ul>
+            <li><i>HINT</i>: If you know the top of all the sections then all you need to check is if you are after one sections top but before anothers.
+              <ul>
+                <li>Ex. If section1's top is at 500px and Section2's top is at 1000px, then when you are scrolling, if you are at 750px you know you are in section 1.
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section style="height:750px;"></section>
+    <script type="text/javascript" src="js/notes.js"></script>
+  </body>
+</html>
