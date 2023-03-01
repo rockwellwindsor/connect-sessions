@@ -22,5 +22,9 @@
 #### Resources
 
   * Getting by TagName: https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp
+    * Getting a reference to all the section HTML elements
   * Creating elements: https://www.w3schools.com/jsref/met_document_createelement.asp
+    * Creating elements based off the sections
+  * Getting the position values of elements on the page: https://www.w3schools.com/jsref/met_element_getboundingclientrect.asp
   * Window Object in JS: https://www.w3schools.com/jsref/obj_window.asp
+  * Tracking scrolling (`pageYOffset`)
