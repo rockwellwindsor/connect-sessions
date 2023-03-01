@@ -27,4 +27,4 @@
     * Creating elements based off the sections
   * Getting the position values of elements on the page: https://www.w3schools.com/jsref/met_element_getboundingclientrect.asp
   * Window Object in JS: https://www.w3schools.com/jsref/obj_window.asp
-  * Tracking scrolling (`pageYOffset`)
+    * Tracking scrolling (`pageYOffset`)
