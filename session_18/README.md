@@ -28,4 +28,4 @@
   * Getting the position values of elements on the page: https://www.w3schools.com/jsref/met_element_getboundingclientrect.asp
   * Window Object in JS: https://www.w3schools.com/jsref/obj_window.asp
     * Tracking scrolling (`pageYOffset`)
-      * https://www.w3schools.com/jsref/prop_win_pagexoffset.asp
+      * https://www.w3schools.com/jsref/prop_win_pageyoffset.asp
