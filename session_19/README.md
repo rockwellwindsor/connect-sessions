@@ -18,16 +18,6 @@
     * jQuery
     * What is "Back-End" Development
 
-#### Activity
-
-  * How'd you do that?
-    * https://codepen.io/rockwellwindsor/pen/BaYBbvy
-
-#### Handouts
-
-  * Right Click to view image in broswer, left click and select "save image as" to save the image to your computer.
-    <img src="./handouts/session_14_useful_methods.png" width="204"/> <img src="./handouts/session_14_tips.png" width="204"/> 
-
 #### Resources
 
   * Free (or free versions/content)
@@ -44,5 +34,9 @@
   * What to do your first year: https://www.shecancode.io/blog/six-things-ive-learned-in-my-first-year-as-a-software-developer
     * https://www.freecodecamp.org/news/my-first-year-as-a-software-engineer/
     * https://www.freecodecamp.org/news/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9/
-  * Coding
+  * Book recommendations about being a developer/working in this field:
+    * https://www.amazon.com/gp/product/0137081073/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+    * https://www.amazon.com/gp/product/0134494164/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+    * https://www.amazon.com/gp/product/0132350882/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+  * Coding in the future (just of interest)
     * https://javascript.plainenglish.io/coding-wont-exist-in-5-years-this-is-why-6da748ba676c
