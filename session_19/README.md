@@ -15,7 +15,9 @@
 
   
   * Where to go next?
-    * jQuery
+    * React: https://www.w3schools.com/REACT/DEFAULT.ASP
+    * NextJS: https://nextjs.org/
+    * jQuery: https://www.w3schools.com/jquery/
     * What is "Back-End" Development
 
 #### Resources
@@ -38,5 +40,6 @@
     * https://www.amazon.com/gp/product/0137081073/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
     * https://www.amazon.com/gp/product/0134494164/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
     * https://www.amazon.com/gp/product/0132350882/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+    * https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_1?crid=2RZSE7OYAOIWW&keywords=algorithms+programming+ruby&qid=1678233449&sprefix=algorithms+programming+ruby%2Caps%2C138&sr=8-1
   * Coding in the future (just of interest)
     * https://javascript.plainenglish.io/coding-wont-exist-in-5-years-this-is-why-6da748ba676c
