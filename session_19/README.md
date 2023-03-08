@@ -23,6 +23,7 @@
 #### Resources
 
   * Free (or free versions/content)
+  * Hackerrank: https://www.hackerrank.com/
     * Udacity: https://www.udacity.com/courses/all?price=Free
     * Edabit: https://edabit.com/challenges
     * CodeAcademy: https://www.codecademy.com/
